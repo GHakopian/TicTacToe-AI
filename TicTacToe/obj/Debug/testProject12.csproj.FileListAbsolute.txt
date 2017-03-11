@@ -1,0 +1,12 @@
+c:\users\ghakopian\documents\visual studio 2015\Projects\testProject12\testProject12\bin\Debug\testProject12.exe.config
+c:\users\ghakopian\documents\visual studio 2015\Projects\testProject12\testProject12\bin\Debug\testProject12.exe
+c:\users\ghakopian\documents\visual studio 2015\Projects\testProject12\testProject12\bin\Debug\testProject12.pdb
+c:\users\ghakopian\documents\visual studio 2015\Projects\testProject12\testProject12\obj\Debug\testProject12.Form1.resources
+c:\users\ghakopian\documents\visual studio 2015\Projects\testProject12\testProject12\obj\Debug\testProject12.Properties.Resources.resources
+c:\users\ghakopian\documents\visual studio 2015\Projects\testProject12\testProject12\obj\Debug\testProject12.csproj.GenerateResource.Cache
+c:\users\ghakopian\documents\visual studio 2015\Projects\testProject12\testProject12\obj\Debug\testProject12.exe
+c:\users\ghakopian\documents\visual studio 2015\Projects\testProject12\testProject12\obj\Debug\testProject12.pdb
+c:\users\ghakopian\documents\visual studio 2015\Projects\testProject12\testProject12\obj\Debug\testProject12.csprojResolveAssemblyReference.cache
+C:\Users\unknown\Desktop\testProject12\testProject12\bin\Debug\testProject12.exe.config
+C:\Users\unknown\Desktop\testProject12\testProject12\obj\Debug\testProject12.exe
+C:\Users\unknown\Desktop\testProject12\testProject12\obj\Debug\testProject12.pdb
